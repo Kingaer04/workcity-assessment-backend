@@ -34,7 +34,7 @@ Before running this application, make sure you have the following:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/kingaer04/Backend.git
+   git clone https://github.com/Kingaer04/workcity-assessment-backend.git
    Backend
    ```
 
